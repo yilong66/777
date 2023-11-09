@@ -332,7 +332,7 @@ select option,
 }
 .btn--blue-gradient {
   background-size: 200% auto;
-  background-image: linear-gradient(to right, #0081ff 0%, #3fa0ff 50%, #0045ff 100%);
+    background-image:linear-gradient(to right, #FFC0CB 0%, #FFC0CB 100%) ;
   transition: .4s ease-in-out;
 }
 .btn:hover {
