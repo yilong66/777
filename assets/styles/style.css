@@ -302,7 +302,7 @@ select option,
   background-size: 200% auto;
   border-radius: 10rem;
   border: 0;
-  box-shadow: 0 24px 40px rgba(0, 69, 255, 0.2), 0 8px 16px rgba(0, 69, 255, 0.15);
+  box-shadow: 0 24px 40px rgba(255, 69, 0, 0.2), 0 8px 16px rgba(255, 69, 0, 0.15);
   color: #fff;
   cursor: pointer;
   font-size: .937rem;
