@@ -781,7 +781,7 @@ iframe {
 }
 @media only screen and (max-width: 580px) {
   .open-menu .circle-menu {
-    box-shadow: 0 0 0 1px rgba(0, 69, 255, 0.5);
+    box-shadow: 0 0 0 1px pink;
     background-image: none;
   }
 }
@@ -880,7 +880,7 @@ iframe {
   color: #fff;
    background-image:linear-gradient(to right, #FFC0CB 0%, #FFC0CB 100%) ;
   border-radius: 2rem 0 0 2rem;
-  box-shadow: 0 24px 40px rgba(0, 69, 255, 0.2), 0 8px 16px rgba(0, 69, 255, 0.15);
+  box-shadow: 0 24px 40px pink, 0 8px 16px pink;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: -moz-box;
@@ -935,7 +935,7 @@ iframe {
 }
 @media only screen and (max-width: 580px) {
   .nav__item a {
-    color: rgba(0, 69, 255, 0.6);
+    color: #666666;
   }
   .nav__item a:hover {
     color: #FFC0CB;
